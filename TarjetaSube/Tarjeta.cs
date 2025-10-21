@@ -13,7 +13,6 @@ namespace TarjetaSube
             get { return saldo; }
         }
 
- 
         public Tarjeta()
         {
             saldo = 0;
@@ -21,7 +20,7 @@ namespace TarjetaSube
 
         public bool Cargar(decimal monto)
         {
-
+            // Verificar si el monto es válido
             bool montoValido = false;
             foreach (decimal carga in CargasPermitidas)
             {
@@ -37,6 +36,7 @@ namespace TarjetaSube
                 return false;
             }
 
+            // Verificar que no supere el límite de saldo
             if (saldo + monto > LIMITE_SALDO)
             {
                 return false;
@@ -45,7 +45,6 @@ namespace TarjetaSube
             saldo += monto;
             return true;
         }
-
 
         public bool DescontarSaldo(decimal monto)
         {

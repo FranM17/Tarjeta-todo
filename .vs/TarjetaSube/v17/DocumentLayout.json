@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\tarjeta\\tarjetasube\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|solutionrelative:tarjetasube\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\tarjeta\\tarjetasube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\mauri\\tarj2\\tarjetasube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|solutionrelative:tarjetasube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F450CDA7-7FD3-4689-BCD5-09F50A00483B}|TarjetaSubeTest\\TarjetaSubeTest.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\tarjeta\\tarjetasubetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F450CDA7-7FD3-4689-BCD5-09F50A00483B}|TarjetaSubeTest\\TarjetaSubeTest.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\mauri\\tarj2\\tarjetasubetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F450CDA7-7FD3-4689-BCD5-09F50A00483B}|TarjetaSubeTest\\TarjetaSubeTest.csproj|solutionrelative:tarjetasubetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\tarjeta\\tarjetasube\\colectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\mauri\\tarj2\\tarjetasube\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|solutionrelative:tarjetasube\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\mauri\\tarj2\\tarjetasube\\colectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|solutionrelative:tarjetasube\\colectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\veron\\onedrive\\documents\\repos\\tarjeta\\tarjetasube\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|solutionrelative:tarjetasube\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|c:\\users\\usuario\\documents\\fran\\escuela\\mauri\\tarj2\\tarjetasube\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE6A7B-5DDD-4A43-B9E2-0A22A9EB62E5}|TarjetaSube\\TarjetaSube.csproj|solutionrelative:tarjetasube\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Boleto.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Boleto.cs",
               "RelativeDocumentMoniker": "TarjetaSube\\Boleto.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Boleto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Boleto.cs",
               "RelativeToolTip": "TarjetaSube\\Boleto.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T16:42:34.136Z"
             },
@@ -48,49 +48,47 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Colectivo.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Colectivo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Colectivo.cs",
               "RelativeDocumentMoniker": "TarjetaSube\\Colectivo.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Colectivo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Colectivo.cs",
               "RelativeToolTip": "TarjetaSube\\Colectivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T16:41:54.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSubeTest\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSubeTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TarjetaSubeTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSubeTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSubeTest\\UnitTest1.cs",
               "RelativeToolTip": "TarjetaSubeTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:11:57.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T16:11:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Tarjeta.cs",
+              "RelativeDocumentMoniker": "TarjetaSube\\Tarjeta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Tarjeta.cs",
+              "RelativeToolTip": "TarjetaSube\\Tarjeta.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:11:56.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tarjeta.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Tarjeta.cs",
-              "RelativeDocumentMoniker": "TarjetaSube\\Tarjeta.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Tarjeta.cs",
-              "RelativeToolTip": "TarjetaSube\\Tarjeta.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:11:56.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Program.cs",
               "RelativeDocumentMoniker": "TarjetaSube\\Program.cs",
-              "ToolTip": "C:\\Users\\veron\\OneDrive\\Documents\\repos\\Tarjeta\\TarjetaSube\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarj2\\TarjetaSube\\Program.cs",
               "RelativeToolTip": "TarjetaSube\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAwwPkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T16:11:52.719Z",
               "EditorCaption": ""

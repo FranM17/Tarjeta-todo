@@ -95,7 +95,7 @@ namespace TarjetaSubeTest
             Assert.IsNotNull(boleto1);
             Assert.IsNotNull(boleto2);
             Assert.IsNotNull(boleto3);
-            Assert.AreEqual(1260, tarjeta.Saldo); 
+            Assert.AreEqual(260, tarjeta.Saldo); // CORREGIDO: 5000 - (1580 × 3) = 260
         }
     }
 }
