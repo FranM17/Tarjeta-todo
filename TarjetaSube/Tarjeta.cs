@@ -4,25 +4,57 @@ namespace TarjetaSube
 {
     public class Tarjeta
     {
-        private int saldo;
-        public Tarjeta(int saldo = 0)
-        {
-            this.saldo = saldo;
-        }
+        private decimal saldo;
+        private const decimal LIMITE_SALDO = 40000m;
+        private static readonly decimal[] CargasPermitidas = { 2000, 3000, 4000, 5000, 8000, 10000, 15000, 20000, 25000, 30000 };
 
-        public int Saldo
+        public decimal Saldo
         {
             get { return saldo; }
-            set { saldo = value; }
         }
-        
-        public void Cargar(int importe)
+
+ 
+        public Tarjeta()
         {
-            saldo += importe;
+            saldo = 0;
         }
-        public void Pagar()
+
+        public bool Cargar(decimal monto)
         {
-            saldo -= 50;
+
+            bool montoValido = false;
+            foreach (decimal carga in CargasPermitidas)
+            {
+                if (carga == monto)
+                {
+                    montoValido = true;
+                    break;
+                }
+            }
+
+            if (!montoValido)
+            {
+                return false;
+            }
+
+            if (saldo + monto > LIMITE_SALDO)
+            {
+                return false;
+            }
+
+            saldo += monto;
+            return true;
+        }
+
+
+        public bool DescontarSaldo(decimal monto)
+        {
+            if (saldo >= monto)
+            {
+                saldo -= monto;
+                return true;
+            }
+            return false;
         }
     }
 }
