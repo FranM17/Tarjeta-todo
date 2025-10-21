@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\Tarjeta\\TarjetaSube\\TarjetaSube.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarjeta-todo\\TarjetaSube\\TarjetaSube.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\Tarjeta\\TarjetaSube\\TarjetaSube.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarjeta-todo\\TarjetaSube\\TarjetaSube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\Tarjeta\\TarjetaSube\\TarjetaSube.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarjeta-todo\\TarjetaSube\\TarjetaSube.csproj",
         "projectName": "TarjetaSube",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\Tarjeta\\TarjetaSube\\TarjetaSube.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarjeta-todo\\TarjetaSube\\TarjetaSube.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\Tarjeta\\TarjetaSube\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Fran\\escuela\\mauri\\tarjeta-todo\\TarjetaSube\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
